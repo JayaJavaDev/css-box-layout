@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+}
+
+.Header {
+    border: 3px solid brown;
+    width: 600px;
+    height: 700px;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+
+.Box {
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    color:whitesmoke;
+}
+
+.Box1 {
+    background-color: rgb(226, 43, 89);
+}
+
+.Box2 {
+    background-color:aqua;
+}
+
+.Box3 {
+    background-color: rgb(210, 126, 30);
+}
+
+.Box4 {
+    background: linear-gradient(pink, blue);
+    margin-top: 2px;
+    margin-left: 10px;
+}
